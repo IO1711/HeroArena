@@ -1,0 +1,72 @@
+{
+  "source": "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/HeroArena/CharacterConfigurer.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Loadout",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 269
+        }
+      },
+      {
+        "comment": "",
+        "key": "Body",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 270
+        }
+      },
+      {
+        "comment": "",
+        "key": "Weapon",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 271
+        }
+      },
+      {
+        "comment": "",
+        "key": "Body Asset",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 272
+        }
+      },
+      {
+        "comment": "",
+        "key": "Weapon Asset",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 273
+        }
+      },
+      {
+        "comment": "",
+        "key": "Animation",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 274
+        }
+      },
+      {
+        "comment": "",
+        "key": "Play Idle",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 282
+        }
+      },
+      {
+        "comment": "",
+        "key": "Play Attack",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 288
+        }
+      }
+    ]
+  },
+  "version": 1
+}

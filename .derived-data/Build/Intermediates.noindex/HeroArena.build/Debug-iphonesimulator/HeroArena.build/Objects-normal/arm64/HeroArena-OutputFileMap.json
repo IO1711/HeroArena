@@ -1,0 +1,69 @@
+{
+  "" : {
+    "diagnostics" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/HeroArena-primary.dia",
+    "emit-module-dependencies" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/HeroArena-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/HeroArena-primary-emit-module.dia",
+    "pch" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/HeroArena-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/HeroArena-primary.swiftdeps"
+  },
+  "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/HeroArena/CharacterConfigurer.swift" : {
+    "const-values" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/CharacterConfigurer.swiftconstvalues",
+    "dependencies" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/CharacterConfigurer.d",
+    "diagnostics" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/CharacterConfigurer.dia",
+    "index-unit-output-path" : "/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/CharacterConfigurer.o",
+    "llvm-bc" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/CharacterConfigurer.bc",
+    "object" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/CharacterConfigurer.o",
+    "swift-dependencies" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/CharacterConfigurer.swiftdeps",
+    "swiftmodule" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/CharacterConfigurer~partial.swiftmodule"
+  },
+  "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/HeroArena/ContentView.swift" : {
+    "const-values" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/HeroArena/HeroArenaApp.swift" : {
+    "const-values" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/HeroArenaApp.swiftconstvalues",
+    "dependencies" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/HeroArenaApp.d",
+    "diagnostics" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/HeroArenaApp.dia",
+    "index-unit-output-path" : "/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/HeroArenaApp.o",
+    "llvm-bc" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/HeroArenaApp.bc",
+    "object" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/HeroArenaApp.o",
+    "swift-dependencies" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/HeroArenaApp.swiftdeps",
+    "swiftmodule" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/HeroArenaApp~partial.swiftmodule"
+  },
+  "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/HeroArena/ModelSceneController.swift" : {
+    "const-values" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/ModelSceneController.swiftconstvalues",
+    "dependencies" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/ModelSceneController.d",
+    "diagnostics" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/ModelSceneController.dia",
+    "index-unit-output-path" : "/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/ModelSceneController.o",
+    "llvm-bc" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/ModelSceneController.bc",
+    "object" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/ModelSceneController.o",
+    "swift-dependencies" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/ModelSceneController.swiftdeps",
+    "swiftmodule" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/ModelSceneController~partial.swiftmodule"
+  },
+  "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/HeroArena/ModelViewerView.swift" : {
+    "const-values" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/ModelViewerView.swiftconstvalues",
+    "dependencies" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/ModelViewerView.d",
+    "diagnostics" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/ModelViewerView.dia",
+    "index-unit-output-path" : "/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/ModelViewerView.o",
+    "llvm-bc" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/ModelViewerView.bc",
+    "object" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/ModelViewerView.o",
+    "swift-dependencies" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/ModelViewerView.swiftdeps",
+    "swiftmodule" : "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/.derived-data/Build/Intermediates.noindex/HeroArena.build/Debug-iphonesimulator/HeroArena.build/Objects-normal/arm64/ModelViewerView~partial.swiftmodule"
+  }
+}

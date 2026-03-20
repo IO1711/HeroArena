@@ -1,0 +1,264 @@
+{
+  "source": "/Users/bilolbekrayimov/games/SwiftUi/HeroArena/HeroArena/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Home",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 79
+        }
+      },
+      {
+        "comment": "",
+        "key": "Hero Arena",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 17
+        }
+      },
+      {
+        "comment": "",
+        "key": "Choose a destination to browse the roster, run a duel, or jump straight into the active character preview.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 19
+        }
+      },
+      {
+        "comment": "",
+        "key": "Collection",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 105
+        }
+      },
+      {
+        "comment": "",
+        "key": "Fight",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 142
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 380
+        }
+      },
+      {
+        "comment": "",
+        "key": "KO",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 417
+        }
+      },
+      {
+        "comment": "",
+        "key": "FIGHT",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 417
+        }
+      },
+      {
+        "comment": "",
+        "key": "Choose Fighters",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 560
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pick exactly two heroes from the collection. Every orc starts with 50 HP, so damage and attack rate decide the winner.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 563
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clear Selection",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 586
+        }
+      },
+      {
+        "comment": "",
+        "key": "Fight Again",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 593
+        }
+      },
+      {
+        "comment": "",
+        "key": "Fighter %lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 636
+        }
+      },
+      {
+        "comment": "",
+        "key": "Arena Waiting",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 773
+        }
+      },
+      {
+        "comment": "",
+        "key": "One Fighter Locked",
+        "location": {
+          "startingColumn": 61,
+          "startingLine": 773
+        }
+      },
+      {
+        "comment": "",
+        "key": "Choose two heroes on the left to start the duel.",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 776
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pick one more hero to open the arena and begin the fight.",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 777
+        }
+      },
+      {
+        "comment": "",
+        "key": "Combat Rules",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 812
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld dmg",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 842
+        }
+      },
+      {
+        "comment": "",
+        "key": "·",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 845
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ atk/s",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 847
+        }
+      },
+      {
+        "comment": "",
+        "key": "VS",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 859
+        }
+      },
+      {
+        "comment": "",
+        "key": "Fight Again",
+        "location": {
+          "startingColumn": 57,
+          "startingLine": 885
+        }
+      },
+      {
+        "comment": "",
+        "key": "Fight Running",
+        "location": {
+          "startingColumn": 73,
+          "startingLine": 885
+        }
+      },
+      {
+        "comment": "",
+        "key": "Winner",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 868
+        }
+      },
+      {
+        "comment": "",
+        "key": "Result",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 877
+        }
+      },
+      {
+        "comment": "",
+        "key": "Draw",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 880
+        }
+      },
+      {
+        "comment": "",
+        "key": "Health",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 914
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld / %lld",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 918
+        }
+      },
+      {
+        "comment": "",
+        "key": "Battle Log",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 1009
+        }
+      },
+      {
+        "comment": "",
+        "key": "The battle log will appear once the first strike lands.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 1014
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld.",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 1020
+        }
+      }
+    ]
+  },
+  "version": 1
+}

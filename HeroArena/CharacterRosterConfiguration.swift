@@ -12,6 +12,14 @@ let configuredCharacters: [ConfiguredCharacterDefinition] = [
     //         )
     //     }
     // ),
+    ConfiguredCharacterDefinition(name: "B", body: .elf, weapon: .sword),
+    ConfiguredCharacterDefinition(name: "C", body: .orc, weapon: .axe, specialSkill: { context in
+             guard !context.isAttacked, context.isHpHalf else { return .none }
+             return CharacterSpecialSkillEffect(
+                 outgoingDamageBonus: 4,
+                 note: "Battle Fury adds 4 damage below half HP."
+             )
+         }),
 ]
 
 
@@ -142,5 +150,50 @@ let configuredCharacters: [ConfiguredCharacterDefinition] = [
 //     return CharacterSpecialSkillEffect(
 //         healSelf: 2,
 //         note: "Vampire Strike restores 2 HP on every attack."
+//     )
+// }
+//
+// Opening Strike
+// specialSkill: { context in
+//     guard !context.isAttacked, context.triggerCount == 0 else { return .none }
+//     return CharacterSpecialSkillEffect(
+//         outgoingDamageBonus: 6,
+//         note: "Opening Strike bursts for 6 extra damage the first time it triggers."
+//     )
+// }
+//
+// Executioner
+// specialSkill: { context in
+//     guard !context.isAttacked, context.isEnemyHpHalf else { return .none }
+//     return CharacterSpecialSkillEffect(
+//         outgoingDamageBonus: 5,
+//         note: "Executioner adds 5 damage against weakened enemies."
+//     )
+// }
+//
+// Knight Guard
+// specialSkill: { context in
+//     guard context.isAttacked, context.isKnight else { return .none }
+//     return CharacterSpecialSkillEffect(
+//         incomingDamageMultiplier: 0.75,
+//         note: "Knight Guard reduces incoming damage by 25%."
+//     )
+// }
+//
+// Elf Reflexes
+// specialSkill: { context in
+//     guard context.isAttacked, context.isElf else { return .none }
+//     return CharacterSpecialSkillEffect(
+//         incomingDamageOffset: -2,
+//         note: "Elf Reflexes slips 2 damage off incoming hits."
+//     )
+// }
+//
+// Heavy Armor
+// specialSkill: { context in
+//     guard context.isAttacked, context.isEnemyUsingAxe || context.isEnemyUsingMace else { return .none }
+//     return CharacterSpecialSkillEffect(
+//         incomingDamageOffset: -3,
+//         note: "Heavy Armor absorbs 3 damage from axe and mace attacks."
 //     )
 // }
